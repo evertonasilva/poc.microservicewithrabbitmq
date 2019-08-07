@@ -1,0 +1,17 @@
+C:\everton\actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.deps.json
+C:\everton\actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.json
+C:\everton\actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.runtimeconfig.dev.json
+C:\everton\actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.dll
+C:\everton\actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Api.pdb
+C:\everton\actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.dll
+C:\everton\actio\src\Actio.Api\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csprojAssemblyReference.cache
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CoreCompileInputs.cache
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cache
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorAssemblyInfo.cs
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfoInputs.cache
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.AssemblyInfo.cs
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.RazorTargetAssemblyInfo.cache
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.csproj.CopyComplete
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.dll
+C:\everton\actio\src\Actio.Api\obj\Debug\netcoreapp2.1\Actio.Api.pdb

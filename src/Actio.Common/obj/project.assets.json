@@ -6907,11 +6907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
+      "projectUniqueName": "C:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
       "projectName": "Actio.Common",
-      "projectPath": "c:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
+      "projectPath": "C:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
       "packagesPath": "C:\\Users\\everton.silva\\.nuget\\packages\\",
-      "outputPath": "c:\\Everton\\Actio\\src\\Actio.Common\\obj\\",
+      "outputPath": "C:\\Everton\\Actio\\src\\Actio.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

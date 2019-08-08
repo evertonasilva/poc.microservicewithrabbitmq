@@ -1,5 +1,3 @@
-
-
 using System;
 using Actio.Common.Commands;
 using Actio.Common.Events;
@@ -19,7 +17,6 @@ namespace Actio.Common.Services
             _webHost = webHost;
         }
         public void Run()=>_webHost.Run();
-
         public static HostBuilder Create<TStartup>(string[] args) where TStartup: class
         {
             Console.Title = typeof(TStartup).Namespace;
@@ -71,16 +68,16 @@ namespace Actio.Common.Services
 
             public BusBuilder SubscribeToCommand<TCommand>() where TCommand : ICommand
             {
-                var handler = (ICommandHandler<ICommand>)_webHost.Services
-                    .GetService(typeof(ICommandHandler<ICommand>));        
+                var handler = (ICommandHandler<TCommand>)_webHost.Services
+                    .GetService(typeof(ICommandHandler<TCommand>));        
                     _bus.WithCommandHandlerAsync(handler);
                 return this;
             }
 
             public BusBuilder SubscribeToEvent<TEvent>() where TEvent : IEvent
             {
-                var handler = (IEventHandler<IEvent>)_webHost.Services
-                    .GetService(typeof(IEventHandler<IEvent>));        
+                var handler = (IEventHandler<TEvent>)_webHost.Services
+                    .GetService(typeof(IEventHandler<TEvent>));        
                     _bus.WithEventHandlerAsync(handler);
                 return this;
             }

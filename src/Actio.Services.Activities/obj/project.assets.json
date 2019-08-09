@@ -7691,6 +7691,7 @@
       "path": "microsoft.netcore.targets/1.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -8168,7 +8169,6 @@
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -8208,7 +8208,6 @@
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -8577,7 +8576,6 @@
       "path": "system.buffers/4.4.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netcoreapp2.0/_._",
@@ -8975,7 +8973,7 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
+      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
@@ -9013,7 +9011,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
+      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -9301,7 +9299,6 @@
       "path": "system.diagnostics.diagnosticsource/4.4.1",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net45/System.Diagnostics.DiagnosticSource.dll",
@@ -10519,7 +10516,6 @@
       "path": "system.numerics.vectors/4.4.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -11093,7 +11089,6 @@
       "path": "system.runtime/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11417,7 +11412,6 @@
       "path": "system.runtime.interopservices.runtimeinformation/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -11589,7 +11583,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "2Z5t70a2SwMsfQDp9KOclaZNyQhfIga2gppq9lIUDM1A4ohTshn4JqT7ir8bvIhXgorWKYDAr6rPzEbi/nTGKg==",
+      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
@@ -13202,23 +13196,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\everton.silva\\.nuget\\packages\\": {},
+    "C:\\Users\\Everton\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Everton\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+      "projectUniqueName": "C:\\Everton\\Source\\poc.microservicewithrabbitmq\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
       "projectName": "Actio.Services.Activities",
-      "projectPath": "C:\\Everton\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
-      "packagesPath": "C:\\Users\\everton.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Everton\\Actio\\src\\Actio.Services.Activities\\obj\\",
+      "projectPath": "C:\\Everton\\Source\\poc.microservicewithrabbitmq\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+      "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
+      "outputPath": "C:\\Everton\\Source\\poc.microservicewithrabbitmq\\src\\Actio.Services.Activities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\everton.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13226,15 +13220,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.cd.com/api/v2": {},
-        "http://nuget.celulardireto.com.br/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
-              "projectPath": "C:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj"
+            "C:\\Everton\\Source\\poc.microservicewithrabbitmq\\src\\Actio.Common\\Actio.Common.csproj": {
+              "projectPath": "C:\\Everton\\Source\\poc.microservicewithrabbitmq\\src\\Actio.Common\\Actio.Common.csproj"
             }
           }
         }

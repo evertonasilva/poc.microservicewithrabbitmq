@@ -1,0 +1,4 @@
+C:\Everton\Actio\tests\Actio.Api.Tests\obj\Debug\netcoreapp2.0\Actio.Api.Tests.csprojAssemblyReference.cache
+C:\Everton\Actio\tests\Actio.Api.Tests\obj\Debug\netcoreapp2.0\Actio.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Everton\Actio\tests\Actio.Api.Tests\obj\Debug\netcoreapp2.0\Actio.Api.Tests.AssemblyInfoInputs.cache
+C:\Everton\Actio\tests\Actio.Api.Tests\obj\Debug\netcoreapp2.0\Actio.Api.Tests.AssemblyInfo.cs

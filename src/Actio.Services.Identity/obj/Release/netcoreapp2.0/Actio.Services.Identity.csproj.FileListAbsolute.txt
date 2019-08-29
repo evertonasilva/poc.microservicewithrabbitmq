@@ -1,0 +1,14 @@
+C:\Everton\Actio\src\Actio.Services.Identity\bin\Release\netcoreapp2.0\Actio.Services.Identity.deps.json
+C:\Everton\Actio\src\Actio.Services.Identity\bin\Release\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.json
+C:\Everton\Actio\src\Actio.Services.Identity\bin\Release\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.dev.json
+C:\Everton\Actio\src\Actio.Services.Identity\bin\Release\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Everton\Actio\src\Actio.Services.Identity\bin\Release\netcoreapp2.0\Actio.Services.Identity.pdb
+C:\Everton\Actio\src\Actio.Services.Identity\bin\Release\netcoreapp2.0\Actio.Common.dll
+C:\Everton\Actio\src\Actio.Services.Identity\bin\Release\netcoreapp2.0\Actio.Common.pdb
+C:\Everton\Actio\src\Actio.Services.Identity\obj\Release\netcoreapp2.0\Actio.Services.Identity.csprojAssemblyReference.cache
+C:\Everton\Actio\src\Actio.Services.Identity\obj\Release\netcoreapp2.0\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Everton\Actio\src\Actio.Services.Identity\obj\Release\netcoreapp2.0\Actio.Services.Identity.AssemblyInfoInputs.cache
+C:\Everton\Actio\src\Actio.Services.Identity\obj\Release\netcoreapp2.0\Actio.Services.Identity.AssemblyInfo.cs
+C:\Everton\Actio\src\Actio.Services.Identity\obj\Release\netcoreapp2.0\Actio.Services.Identity.csproj.CopyComplete
+C:\Everton\Actio\src\Actio.Services.Identity\obj\Release\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Everton\Actio\src\Actio.Services.Identity\obj\Release\netcoreapp2.0\Actio.Services.Identity.pdb

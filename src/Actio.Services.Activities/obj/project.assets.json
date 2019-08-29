@@ -13635,11 +13635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Everton\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+      "projectUniqueName": "c:\\Everton\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
       "projectName": "Actio.Services.Activities",
-      "projectPath": "C:\\Everton\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+      "projectPath": "c:\\Everton\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
       "packagesPath": "C:\\Users\\everton.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Everton\\Actio\\src\\Actio.Services.Activities\\obj\\",
+      "outputPath": "c:\\Everton\\Actio\\src\\Actio.Services.Activities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13658,8 +13658,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
-              "projectPath": "C:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj"
+            "c:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
+              "projectPath": "c:\\Everton\\Actio\\src\\Actio.Common\\Actio.Common.csproj"
             }
           }
         }
